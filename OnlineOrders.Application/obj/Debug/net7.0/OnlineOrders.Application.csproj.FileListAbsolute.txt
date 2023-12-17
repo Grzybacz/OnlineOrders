@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\bin\Debug\net7.0\OnlineOrders.Application.deps.json
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\bin\Debug\net7.0\OnlineOrders.Application.dll
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\bin\Debug\net7.0\OnlineOrders.Application.pdb
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\bin\Debug\net7.0\OnlineOrders.Domain.dll
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\bin\Debug\net7.0\OnlineOrders.Domain.pdb
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\obj\Debug\net7.0\OnlineOrders.Application.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\obj\Debug\net7.0\OnlineOrders.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\obj\Debug\net7.0\OnlineOrders.Application.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\obj\Debug\net7.0\OnlineOrders.Application.AssemblyInfo.cs
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\obj\Debug\net7.0\OnlineOrders.Application.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\obj\Debug\net7.0\OnlineOrders.Application.csproj.CopyComplete
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\obj\Debug\net7.0\OnlineOrders.Application.dll
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\obj\Debug\net7.0\refint\OnlineOrders.Application.dll
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\obj\Debug\net7.0\OnlineOrders.Application.pdb
+C:\Users\aleks\source\repos\OnlineOrders\OnlineOrders.Application\obj\Debug\net7.0\ref\OnlineOrders.Application.dll

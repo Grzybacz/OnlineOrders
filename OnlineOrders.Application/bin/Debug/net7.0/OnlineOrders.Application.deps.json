@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OnlineOrders.Application/1.0.0": {
+        "dependencies": {
+          "OnlineOrders.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OnlineOrders.Application.dll": {}
+        }
+      },
+      "OnlineOrders.Domain/1.0.0": {
+        "runtime": {
+          "OnlineOrders.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineOrders.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineOrders.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
